@@ -1,0 +1,14 @@
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\obj\Debug\WindowList.baml
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\obj\Debug\WindowList.g.cs
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\obj\Debug\App.g.cs
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Einsamkeit\Desktop\codes\WpfApp\WpfApp3\obj\Debug\WpfApp3.pdb
